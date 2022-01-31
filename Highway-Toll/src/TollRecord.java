@@ -1,5 +1,3 @@
-package hw6;
-
 /**
  * The TollRecord class to create all the tolls
  */
