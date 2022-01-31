@@ -1,6 +1,6 @@
-package hw6.test;
-import hw6.TollRecord;
-import static hw6.test.Tests.*;
+package test;
+import TollRecord;
+import static test.Tests.*;
 
 /**
  * Testing class for Toll Record
@@ -12,8 +12,8 @@ public class TollRecordTest {
      */
     public static void testTollRecordConstructor()
     {
-        TollRecord tr1= new TollRecord("Prathamesh",25,10);
-        assertEquals("Prathamesh",tr1.getName());
+        TollRecord tr1= new TollRecord("Nithin",25,10);
+        assertEquals("Nithin",tr1.getName());
         assertEquals(25,tr1.getEntry());
         assertEquals(10,tr1.getEntryTime());
     }
