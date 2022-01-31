@@ -1,4 +1,3 @@
-package hw6;
 import java.io.FileNotFoundException;
 import java.util.*;
 
