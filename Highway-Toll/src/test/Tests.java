@@ -1,4 +1,4 @@
-package hw6.test;
+package test;
 
 import java.lang.reflect.Method;
 import java.lang.reflect.Modifier;
