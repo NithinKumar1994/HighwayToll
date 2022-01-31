@@ -1,10 +1,7 @@
-package hw6;
-
 /**
  * A class that encapsulate the toll schedule for cars travelling on
  * the NY Thruway.
  *
- * @author James Heliotis
  */
 public class ExitInfo {
 
