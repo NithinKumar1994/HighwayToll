@@ -1,5 +1,3 @@
-package hw6;
-
 /**
  * An interface that contains useful constants for classes in the Tolls R Us
  * simulation. Classes  may simply refer to the constants here (i.e.
