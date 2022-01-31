@@ -1,7 +1,7 @@
-package hw6.test;
-import static hw6.test.Tests.*;
-import hw6.TollRecord;
-import hw6.TollRoadDatabase;
+package test;
+import static test.Tests.*;
+import TollRecord;
+import TollRoadDatabase;
 
 /**
  * Testing class for TollRoadDatabase
@@ -17,7 +17,7 @@ public class TollRoadDatabaseTest
      */
     public static void testTollRoadDatabaseConstructor()
     {
-        trb1= new TollRoadDatabase("hw6/input/5guys.txt");
+        trb1= new TollRoadDatabase("/input/5guys.txt");
     }
 
     /**
