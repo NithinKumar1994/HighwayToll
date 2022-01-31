@@ -1,11 +1,8 @@
-package hw6;
-
 /**
  * Information about a single exit. It is a utility class used by
  * {@link ExitInfo} to store information about the setup of exits on a
  * particular highway
  *
- * @author James Heliotis
  */
 public class Exit {
 
