@@ -1,4 +1,3 @@
-package hw6;
 import java.util.Map;
 import java.util.Scanner;
 
@@ -61,46 +60,3 @@ public class TollReport implements  TollsRUs {
         }
         }
 }
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
